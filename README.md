@@ -18,5 +18,7 @@ Answered and visualised the following questions based on the dataset.
 5. Number of wins by each team in each season
 
 IPL(Indian Premier League) Statistics.twbx = Tableau file
+
 Match Statistics.pdf and Player Statistics = screenshot of dashboard
+
 IPL Statistics_Report.pdf = Insights report
